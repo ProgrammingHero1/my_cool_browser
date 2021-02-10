@@ -2,6 +2,7 @@ import sys
 from PyQt5.QtCore import *
 from PyQt5.QtWidgets import *
 from PyQt5.QtWebEngineWidgets import *
+from PyQt5.QtGui import QIcon
 
 
 class MainWindow(QMainWindow):
@@ -37,9 +38,10 @@ class MainWindow(QMainWindow):
         navbar.addWidget(self.url_bar)
 
         self.browser.urlChanged.connect(self.update_url)
+        self.setWindowIcon(QIcon('Programming-Hero-app.png'))
 
     def navigate_home(self):
-        self.browser.setUrl(QUrl('http://digitalgarage.space'))
+        self.browser.setUrl(QUrl('https://www.programming-hero.com/'))
 
     def navigate_to_url(self):
         url = self.url_bar.text()
