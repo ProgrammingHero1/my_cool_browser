@@ -2,12 +2,10 @@
 An Advanced version of Simple Browser and has no errors and you can do it with any code editor
 
 Put this in the terminal of your python project:
-var example = true
 
-1. {pip install PyQt5}
-2. {pip install PyQtWebEngine}
+1. pip install PyQt5
+2. pip install PyQtWebEngine
 
-var example = true
 
 After you have done that step then copy and paste the code into your code editor from main.py
 
