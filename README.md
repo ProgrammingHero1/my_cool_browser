@@ -5,7 +5,6 @@ Put this in the terminal of your python project:
 
 ```
 1. pip install PyQt5
-```
 2. pip install PyQtWebEngine
 ```
 
