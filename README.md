@@ -4,8 +4,8 @@ An Advanced version of Simple Browser and has no errors and you can do it with a
 Put this in the terminal of your python project:
 
 ```
-1. pip install PyQt5
-2. pip install PyQtWebEngine
+pip install PyQt5
+pip install PyQtWebEngine
 ```
 
 After you have done that step then copy and paste the code into your code editor from main.py
