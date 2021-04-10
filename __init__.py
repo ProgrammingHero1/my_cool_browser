@@ -20,15 +20,15 @@ class MainWindow(QMainWindow):
         back_btn.triggered.connect(self.browser.back)
         navbar.addAction(back_btn)
 
-        forward_btn = QAction('®', self)
+        forward_btn = QAction('forward', self)
         forward_btn.triggered.connect(self.browser.forward)
         navbar.addAction(forward_btn)
 
-        reload_btn = QAction('✓', self)
+        reload_btn = QAction('reload', self)
         reload_btn.triggered.connect(self.browser.reload)
         navbar.addAction(reload_btn)
 
-        home_btn = QAction('_', self)
+        home_btn = QAction('home', self)
         home_btn.triggered.connect(self.navigate_home)
         navbar.addAction(home_btn)
 
