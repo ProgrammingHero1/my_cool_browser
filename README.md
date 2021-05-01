@@ -14,6 +14,4 @@ If you need any help or have issues write it in the issues section.
 
 Feel free to change anything with the code
 
-Remember to Subscribe to the IT TECH PRO ==> https://www.youtube.com/channel/UCQLskloPaqKgmLKet7hxQmw
-
-Remember to subscribe to ZI Zoraez ==> https://www.youtube.com/channel/UC6srZpri3G-WsLy-lgO_C_w
+Remember to Subscribe to the my youtube channel Codeopedia - The Epic World of Programming ==> https://www.youtube.com/channel/UC0KZbVgZfi87fdSMUcfJPtQ
